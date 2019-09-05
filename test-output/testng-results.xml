@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10595" started-at="2019-09-05T04:44:41Z" finished-at="2019-09-05T04:44:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10595" started-at="2019-09-05T04:44:41Z" finished-at="2019-09-05T04:44:51Z">
+      <class name="com.amazonApp.testScripts.SearchItemPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeSuite" is-config="true" duration-ms="181" started-at="2019-09-05T04:44:41Z" finished-at="2019-09-05T04:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeTest" is-config="true" duration-ms="2002" started-at="2019-09-05T04:44:41Z" finished-at="2019-09-05T04:44:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeMethod" is-config="true" duration-ms="6" started-at="2019-09-05T04:44:43Z" finished-at="2019-09-05T04:44:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.amazonApp.testScripts.SearchItemPageTest.verifyProductDetails()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyProductDetails()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="verifyProductDetails" duration-ms="7816" started-at="2019-09-05T04:44:43Z" description="Verify Product Details" finished-at="2019-09-05T04:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetails -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="afterMethod" is-config="true" duration-ms="568" started-at="2019-09-05T04:44:51Z" finished-at="2019-09-05T04:44:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyProductDetails status=SUCCESS method=SearchItemPageTest.verifyProductDetails()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="afterTest" is-config="true" duration-ms="181" started-at="2019-09-05T04:44:51Z" finished-at="2019-09-05T04:44:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.amazonApp.testScripts.SearchItemPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

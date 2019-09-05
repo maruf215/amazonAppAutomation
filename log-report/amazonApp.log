@@ -1,0 +1,249 @@
+2019-09-04 00:09:367 INFO  TestBase:124 - The driver executable does not exist: /Users/maruf/Documents/eclipse-workspace-3/AmazonAppAutomation/src/main/resources/drivers/chromedriver
+2019-09-04 00:09:656 INFO  TestBase:124 - The driver executable does not exist: /Users/maruf/Documents/eclipse-workspace-3/AmazonAppAutomation/src/main/resources/drivers/chromedriver
+2019-09-04 00:09:246 INFO  TestBase:124 - The driver executable does not exist: /Users/maruf/Documents/eclipse-workspace-3/AmazonAppAutomation/src/main/resources/drivers/chromedriver
+2019-09-04 01:09:396 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:402 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:402 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:416 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:423 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:482 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:501 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:503 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:519 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:529 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:668 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:674 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:674 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:689 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:694 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:857 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:437 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:54 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:59 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:59 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:72 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:78 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:253 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:949 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:714 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:724 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:724 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:735 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:739 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:917 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:976 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:769 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:512 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:807 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:815 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:816 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:828 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:836 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:987 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:586 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:122 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:905 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:549 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:560 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:560 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:573 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:580 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:796 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:573 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:441 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:41 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:455 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:473 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:475 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:491 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:498 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:676 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:603 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:188 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:851 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:157 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:166 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:167 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:178 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:183 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:587 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:994 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:784 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:958 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:323 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:343 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:343 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:358 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:368 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:535 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:530 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:190 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:927 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:153 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:167 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:169 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:191 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:203 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:374 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:524 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:212 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:34 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:612 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:621 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:622 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:631 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:636 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:830 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:438 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:22 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:863 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:652 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-04 01:09:659 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:659 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:671 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:682 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:865 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:10 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 01:09:129 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:147 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:148 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:156 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:164 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:349 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 01:09:980 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 01:09:562 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:289 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:294 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:61 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-04 01:09:67 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:67 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:76 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:82 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:272 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:350 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:355 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:390 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 01:09:963 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:975 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:975 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:989 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:06 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:196 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:339 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:352 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:389 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 01:09:400 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:401 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:416 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:422 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:578 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:770 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:785 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:882 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 01:09:846 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-04 01:09:859 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:860 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 01:09:874 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 01:09:885 INFO  WaitHelper:146 - page is loaded
+2019-09-04 01:09:102 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 01:09:908 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 01:09:910 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 02:09:551 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 02:09:125 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 02:09:136 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 02:09:136 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 02:09:157 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 02:09:173 INFO  WaitHelper:146 - page is loaded
+2019-09-04 02:09:364 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 02:09:790 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 02:09:387 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 02:09:247 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 02:09:249 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 02:09:486 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 02:09:502 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 02:09:504 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 02:09:522 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 02:09:645 INFO  WaitHelper:146 - page is loaded
+2019-09-04 02:09:838 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 02:09:255 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 02:09:16 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 02:09:694 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 02:09:321 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 02:09:138 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 02:09:811 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 10:09:423 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 10:09:523 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-04 23:09:767 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-04 23:09:775 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 23:09:779 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 23:09:792 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 23:09:797 INFO  WaitHelper:146 - page is loaded
+2019-09-04 23:09:25 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 23:09:184 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 23:09:265 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 23:09:05 INFO  TestBase:131 - Initialize Web driver: 1697752980
+2019-09-04 23:09:10 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 23:09:10 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-04 23:09:18 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-04 23:09:23 INFO  WaitHelper:146 - page is loaded
+2019-09-04 23:09:226 INFO  TestBase:72 - **************openAmazonAppStarted***************
+2019-09-04 23:09:199 INFO  TestBase:90 - **************openAmazonAppFinished***************
+2019-09-04 23:09:841 INFO  TestBase:72 - **************serchProductStarted***************
+2019-09-04 23:09:510 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-04 23:09:614 INFO  WaitHelper:156 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='block_top_menu']/ul/li[1]/a' for :200 seconds
+2019-09-04 23:09:928 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-05 00:09:279 INFO  TestBase:90 - **************serchProductFinished***************
+2019-09-05 00:09:823 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-05 00:09:835 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:835 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-05 00:09:846 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-05 00:09:856 INFO  WaitHelper:146 - page is loaded
+2019-09-05 00:09:40 INFO  TestBase:72 - **************searchProductStarted***************
+2019-09-05 00:09:701 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:87 INFO  TestBase:90 - **************searchProductFinished***************
+2019-09-05 00:09:634 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-05 00:09:641 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:641 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-05 00:09:654 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-05 00:09:661 INFO  WaitHelper:146 - page is loaded
+2019-09-05 00:09:832 INFO  TestBase:72 - **************searchProductStarted***************
+2019-09-05 00:09:593 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:649 INFO  TestBase:90 - **************searchProductFinished***************
+2019-09-05 00:09:687 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-05 00:09:699 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:702 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-05 00:09:715 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-05 00:09:720 INFO  WaitHelper:146 - page is loaded
+2019-09-05 00:09:914 INFO  TestBase:72 - **************checkProductDetailsStarted***************
+2019-09-05 00:09:886 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:868 INFO  TestBase:90 - **************checkProductDetailsFinished***************
+2019-09-05 00:09:284 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-05 00:09:294 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:294 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-05 00:09:305 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-05 00:09:311 INFO  WaitHelper:146 - page is loaded
+2019-09-05 00:09:481 INFO  TestBase:72 - **************checkProductDetailsStarted***************
+2019-09-05 00:09:143 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:982 INFO  TestBase:90 - **************checkProductDetailsFinished***************
+2019-09-05 00:09:766 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-05 00:09:772 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:773 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-05 00:09:787 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-05 00:09:792 INFO  WaitHelper:146 - page is loaded
+2019-09-05 00:09:986 INFO  TestBase:72 - **************verifyProductDetailsStarted***************
+2019-09-05 00:09:757 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:723 INFO  AssertionHelper:22 - Expected text: Nikon D3X
+2019-09-05 00:09:724 INFO  AssertionHelper:23 - Actual text: Nikon D3400 with AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR + Nikon AF-P DX NIKKOR 70-300mm f/4.5-6.3G ED Lens + 64GB, Deluxe Accessory Bundle and Xpix Cleaning Accessories
+2019-09-05 00:09:724 INFO  AssertionHelper:28 - Text is not displayed as expected
+2019-09-05 00:09:728 INFO  TestBase:90 - **************verifyProductDetailsFinished***************
+2019-09-05 00:09:212 INFO  TestBase:131 - Initialize Web driver: 1457263953
+2019-09-05 00:09:228 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:236 INFO  WaitHelper:41 - Implicit Wait has been set to: 120
+2019-09-05 00:09:251 INFO  WaitHelper:144 - waiting for page to load for : SECONDS seconds
+2019-09-05 00:09:258 INFO  WaitHelper:146 - page is loaded
+2019-09-05 00:09:422 INFO  TestBase:72 - **************verifyProductDetailsStarted***************
+2019-09-05 00:09:09 INFO  WaitHelper:31 - WaitHelper object created..
+2019-09-05 00:09:237 INFO  AssertionHelper:22 - Expected text: Nikon D3X
+2019-09-05 00:09:237 INFO  AssertionHelper:23 - Actual text: Nikon D3400 with AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR + Nikon AF-P DX NIKKOR 70-300mm f/4.5-6.3G ED Lens + 64GB, Deluxe Accessory Bundle and Xpix Cleaning Accessories
+2019-09-05 00:09:238 INFO  AssertionHelper:28 - Text is not displayed as expected
+2019-09-05 00:09:242 INFO  TestBase:90 - **************verifyProductDetailsFinished***************
