@@ -30,8 +30,18 @@ public class SearchItemPage {
 		waitHelper = new WaitHelper(driver);
 		TestBase.logExtentReport("NavigationMenu object created");
 	}
+	
+	//*[@id="a-autoid-0-announce"]
+	//*[@id="s-result-sort-select_2"]
+	
 
-	@FindBy(xpath = "//div[2]/div/div/div/div/div/div[2]/div[2]/div/div[1]/div/div/div[1]/h2/a/span")
+	@FindBy(id = "a-autoid-0-announce")
+	WebElement sortByFeatured;
+	
+	@FindBy(id = "s-result-sort-select_2")
+	WebElement highToLow;
+
+	@FindBy(xpath = "//div[2]/div/div/div/div[2]/div[2]/div/div[1]/div/div/div/h2/a/span")
 	public WebElement secondProduct;
 
 	@FindBy(id = "productTitle")
@@ -39,6 +49,8 @@ public class SearchItemPage {
 
 	public void productDetails() {
 
+		sortByFeatured.click();
+		highToLow.click();
 		secondProduct.click();
 		String s1 = "Nikon D3X";
 		String s2 = productTopicTitle.getText();

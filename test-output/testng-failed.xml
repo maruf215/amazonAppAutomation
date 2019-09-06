@@ -3,16 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.amazonApp.testScripts.HomePageTest">
+      <class name="com.amazonApp.testScripts.SearchItemPageTest">
         <methods>
           <include name="beforeTest"/>
           <include name="afterMethod"/>
-          <include name="serchProduct"/>
           <include name="afterTest"/>
           <include name="beforeSuite"/>
           <include name="beforeMethod"/>
+          <include name="verifyProductDetails"/>
         </methods>
-      </class> <!-- com.amazonApp.testScripts.HomePageTest -->
+      </class> <!-- com.amazonApp.testScripts.SearchItemPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
