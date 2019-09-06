@@ -14,10 +14,7 @@ import com.amazonApp.commonLibraries.logger.LoggerHelper;
 import com.amazonApp.commonLibraries.testbase.TestBase;
 import com.amazonApp.commonLibraries.wait.WaitHelper;
 
-/**
- * 
- * @author Towfiqur Rahman
- */
+
 public class SearchItemPage {
 
 	private WebDriver driver;
@@ -30,14 +27,10 @@ public class SearchItemPage {
 		waitHelper = new WaitHelper(driver);
 		TestBase.logExtentReport("NavigationMenu object created");
 	}
-	
-	//*[@id="a-autoid-0-announce"]
-	//*[@id="s-result-sort-select_2"]
-	
 
 	@FindBy(id = "a-autoid-0-announce")
 	WebElement sortByFeatured;
-	
+
 	@FindBy(id = "s-result-sort-select_2")
 	WebElement highToLow;
 

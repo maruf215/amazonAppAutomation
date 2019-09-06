@@ -13,10 +13,7 @@ import com.amazonApp.commonLibraries.testbase.TestBase;
 import com.amazonApp.commonLibraries.wait.WaitHelper;
 import com.aventstack.extentreports.Status;
 
-/**
- * 
- * @author Towfiqur Rahman
- */
+
 public class HomePage {
 
 	private WebDriver driver;

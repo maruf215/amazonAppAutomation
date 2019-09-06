@@ -8,9 +8,7 @@ import com.amazonApp.commonLibraries.logger.LoggerHelper;
 import com.amazonApp.commonLibraries.testbase.TestBase;
 import com.amazonApp.initPages.InitPages;
 
-/**
- * @author maruf murshed
- */
+
 public class HomePageTest extends TestBase {
 
 	private final Logger log = LoggerHelper.getLogger(HomePageTest.class);

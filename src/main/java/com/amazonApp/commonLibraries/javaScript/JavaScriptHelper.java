@@ -6,11 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 import com.amazonApp.commonLibraries.logger.LoggerHelper;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class JavaScriptHelper {
 	
 	private WebDriver driver;

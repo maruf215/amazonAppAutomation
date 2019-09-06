@@ -4,11 +4,7 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 import com.amazonApp.commonLibraries.resource.ResourceHelper;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class LoggerHelper {
 
 	private static boolean root=false;

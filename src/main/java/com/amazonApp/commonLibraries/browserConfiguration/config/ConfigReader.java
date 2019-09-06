@@ -1,11 +1,7 @@
 package com.amazonApp.commonLibraries.browserConfiguration.config;
 
 import com.amazonApp.commonLibraries.browserConfiguration.BrowserType;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public interface ConfigReader {
 	
 	public int getImpliciteWait();

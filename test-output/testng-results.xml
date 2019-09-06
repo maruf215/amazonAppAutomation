@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12828" started-at="2019-09-06T03:53:49Z" finished-at="2019-09-06T03:54:02Z">
+  <suite name="Default suite" duration-ms="13720" started-at="2019-09-06T04:08:04Z" finished-at="2019-09-06T04:08:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12828" started-at="2019-09-06T03:53:49Z" finished-at="2019-09-06T03:54:02Z">
+    <test name="Default test" duration-ms="13720" started-at="2019-09-06T04:08:04Z" finished-at="2019-09-06T04:08:18Z">
       <class name="com.amazonApp.testScripts.SearchItemPageTest">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeSuite" is-config="true" duration-ms="201" started-at="2019-09-06T03:53:49Z" finished-at="2019-09-06T03:53:49Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeSuite" is-config="true" duration-ms="212" started-at="2019-09-06T04:08:04Z" finished-at="2019-09-06T04:08:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeTest" is-config="true" duration-ms="2047" started-at="2019-09-06T03:53:49Z" finished-at="2019-09-06T03:53:51Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeTest" is-config="true" duration-ms="2190" started-at="2019-09-06T04:08:04Z" finished-at="2019-09-06T04:08:06Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2019-09-06T03:53:51Z" finished-at="2019-09-06T03:53:51Z">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2019-09-06T04:08:06Z" finished-at="2019-09-06T04:08:06Z">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="verifyProductDetails()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="verifyProductDetails" duration-ms="9993" started-at="2019-09-06T03:53:51Z" description="Verify Product Details" finished-at="2019-09-06T03:54:01Z">
+        <test-method status="PASS" signature="verifyProductDetails()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="verifyProductDetails" duration-ms="10726" started-at="2019-09-06T04:08:06Z" description="Verify Product Details" finished-at="2019-09-06T04:08:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyProductDetails -->
-        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="afterMethod" is-config="true" duration-ms="535" started-at="2019-09-06T03:54:01Z" finished-at="2019-09-06T03:54:01Z">
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="afterMethod" is-config="true" duration-ms="616" started-at="2019-09-06T04:08:17Z" finished-at="2019-09-06T04:08:18Z">
           <params>
             <param index="0">
               <value>
@@ -41,7 +41,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="afterTest" is-config="true" duration-ms="221" started-at="2019-09-06T03:54:01Z" finished-at="2019-09-06T03:54:02Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.amazonApp.testScripts.SearchItemPageTest@a7e666]" name="afterTest" is-config="true" duration-ms="160" started-at="2019-09-06T04:08:18Z" finished-at="2019-09-06T04:08:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

@@ -6,11 +6,7 @@ import org.openqa.selenium.WebElement;
 
 import com.amazonApp.commonLibraries.logger.LoggerHelper;
 import com.amazonApp.commonLibraries.testbase.TestBase;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class VerificationHelper {
 
 	private WebDriver driver;

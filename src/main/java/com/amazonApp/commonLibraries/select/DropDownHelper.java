@@ -10,11 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import com.amazonApp.commonLibraries.logger.LoggerHelper;
 
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class DropDownHelper {
 	
     private WebDriver driver;

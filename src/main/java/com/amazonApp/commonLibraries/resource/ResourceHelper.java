@@ -1,10 +1,6 @@
 package com.amazonApp.commonLibraries.resource;
 
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class ResourceHelper {
 
 	public static String getResourcePath(String path) {

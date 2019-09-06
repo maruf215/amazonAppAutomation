@@ -5,11 +5,7 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class ExtentManager {
 	
 	private static ExtentReports extent;

@@ -326,3 +326,54 @@
 2019-09-05 23:09:328 INFO  AssertionHelper:23 - Actual text: Nikon D5 DSLR Camera (Body Only, Dual CF Slots) + Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens Bundle
 2019-09-05 23:09:329 INFO  AssertionHelper:28 - Text is not displayed as expected
 2019-09-05 23:09:332 INFO  TestBase:90 - **************verifyProductDetailsFinished***************
+2019-09-06 00:09:780 INFO  TestBase:127 - Initialize Web driver: 1457263953
+2019-09-06 00:09:787 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:792 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2019-09-06 00:09:804 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2019-09-06 00:09:809 INFO  WaitHelper:142 - page is loaded
+2019-09-06 00:09:997 INFO  TestBase:68 - **************verifyProductDetailsStarted***************
+2019-09-06 00:09:85 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:434 INFO  AssertionHelper:18 - Expected text: Nikon D3X
+2019-09-06 00:09:435 INFO  AssertionHelper:19 - Actual text: Nikon D5 DSLR Camera (Body Only, Dual XQD Slots) + Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens Bundle
+2019-09-06 00:09:435 INFO  AssertionHelper:24 - Text is not displayed as expected
+2019-09-06 00:09:445 INFO  TestBase:86 - **************verifyProductDetailsFinished***************
+2019-09-06 00:09:776 INFO  TestBase:127 - Initialize Web driver: 1457263953
+2019-09-06 00:09:781 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:783 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2019-09-06 00:09:792 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2019-09-06 00:09:797 INFO  WaitHelper:142 - page is loaded
+2019-09-06 00:09:969 INFO  TestBase:68 - **************verifyProductDetailsStarted***************
+2019-09-06 00:09:688 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:832 INFO  AssertionHelper:18 - Expected text: Nikon D3X
+2019-09-06 00:09:832 INFO  AssertionHelper:19 - Actual text: Nikon D5 DSLR Camera (Body Only, Dual XQD Slots) + Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens Bundle
+2019-09-06 00:09:833 INFO  AssertionHelper:24 - Text is not displayed as expected
+2019-09-06 00:09:836 INFO  TestBase:86 - **************verifyProductDetailsFinished***************
+2019-09-06 00:09:626 INFO  TestBase:127 - Initialize Web driver: 1457263953
+2019-09-06 00:09:640 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:640 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2019-09-06 00:09:658 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2019-09-06 00:09:663 INFO  WaitHelper:142 - page is loaded
+2019-09-06 00:09:828 INFO  TestBase:68 - **************verifyProductDetailsStarted***************
+2019-09-06 00:09:365 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:368 INFO  AssertionHelper:18 - Expected text: Nikon D3X
+2019-09-06 00:09:369 INFO  AssertionHelper:19 - Actual text: Nikon D5 DSLR Camera (Body Only, Dual CF Slots) + Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens Bundle
+2019-09-06 00:09:369 INFO  AssertionHelper:24 - Text is not displayed as expected
+2019-09-06 00:09:374 INFO  TestBase:86 - **************verifyProductDetailsFinished***************
+2019-09-06 00:09:102 INFO  TestBase:127 - Initialize Web driver: 1457263953
+2019-09-06 00:09:110 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:111 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2019-09-06 00:09:121 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2019-09-06 00:09:128 INFO  WaitHelper:142 - page is loaded
+2019-09-06 00:09:290 INFO  TestBase:68 - **************verifyProductDetailsStarted***************
+2019-09-06 00:09:229 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:505 INFO  TestBase:127 - Initialize Web driver: 1457263953
+2019-09-06 00:09:511 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:513 INFO  WaitHelper:37 - Implicit Wait has been set to: 120
+2019-09-06 00:09:523 INFO  WaitHelper:140 - waiting for page to load for : SECONDS seconds
+2019-09-06 00:09:532 INFO  WaitHelper:142 - page is loaded
+2019-09-06 00:09:686 INFO  TestBase:68 - **************verifyProductDetailsStarted***************
+2019-09-06 00:09:370 INFO  WaitHelper:27 - WaitHelper object created..
+2019-09-06 00:09:410 INFO  AssertionHelper:18 - Expected text: Nikon D3X
+2019-09-06 00:09:411 INFO  AssertionHelper:19 - Actual text: Nikon D5 DSLR Camera (Body Only, Dual CF Slots) + Nikon AF-S NIKKOR 70-200mm f/2.8E FL ED VR Lens Bundle
+2019-09-06 00:09:412 INFO  AssertionHelper:24 - Text is not displayed as expected
+2019-09-06 00:09:416 INFO  TestBase:86 - **************verifyProductDetailsFinished***************

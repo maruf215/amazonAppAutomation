@@ -39,11 +39,7 @@ import com.amazonApp.commonLibraries.wait.WaitHelper;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class TestBase {
 	
 	public static ExtentReports extent;

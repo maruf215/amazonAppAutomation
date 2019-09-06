@@ -16,11 +16,7 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.amazonApp.commonLibraries.logger.LoggerHelper;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class WaitHelper {
 
 	private WebDriver driver;

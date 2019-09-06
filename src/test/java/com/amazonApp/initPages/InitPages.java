@@ -13,7 +13,6 @@ import com.amazonApp.pageObject.SearchItemPage;
 public class InitPages {
 	
 	private WebDriver driver;
-//	public CommonMethod commonMethod;
 	public HomePage homePageObject;
 	public SearchItemPage searchItemPageObject;
 	

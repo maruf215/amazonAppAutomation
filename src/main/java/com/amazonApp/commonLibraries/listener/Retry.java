@@ -5,11 +5,7 @@ import org.testng.IRetryAnalyzer;
 import org.testng.ITestResult;
 
 import com.amazonApp.commonLibraries.logger.LoggerHelper;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class Retry implements IRetryAnalyzer{
 	private int retryCount = 0;
 	private int maxRetryCount = 3;

@@ -4,11 +4,7 @@ import org.apache.log4j.Logger;
 import org.testng.Assert;
 
 import com.amazonApp.commonLibraries.logger.LoggerHelper;
-/**
- * 
- * @author maruf murshed
- *
- */
+
 public class AssertionHelper {
 	
 	private static Logger log = LoggerHelper.getLogger(AssertionHelper.class);
